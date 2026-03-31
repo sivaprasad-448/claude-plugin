@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lightup": {
+      "type": "sse",
+      "url": "${LIGHTUP_MCP_URL}/sse?host=${LIGHTUP_HOST}&refresh_token=${LIGHTUP_REFRESH_TOKEN}"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lightup",
+  "description": "AI assistant for Lightup data quality — create metrics, monitor data, diagnose incidents directly from Claude Code.",
+  "version": "0.1.1",
+  "author": {
+    "name": "Lightup",
+    "url": "https://lightup.ai"
+  },
+  "homepage": "https://lightup.ai",
+  "repository": "https://github.com/lightup-ai/lightup-ai"
+}
